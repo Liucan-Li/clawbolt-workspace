@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.2.26",
+    "lastTouchedAt": "2026-02-27T16:28:11.386Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-02-27T16:28:11.308Z",
+    "lastRunVersion": "2026.2.26",
+    "lastRunCommand": "onboard",
+    "lastRunMode": "local"
+  },
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "custom-open-bigmodel-cn": {
+        "baseUrl": "https://open.bigmodel.cn/api/paas/v4/",
+        "apiKey": "58dd2677532f420ab5f6aec04592e214.FzHcVehmzCmSu3Pn",
+        "api": "openai-completions",
+        "models": [
+          {
+            "id": "glm-5",
+            "name": "glm-5 (Custom Provider)",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 200000,
+            "maxTokens": 16000
+          }
+        ]
+      },
+      "custom-api-deepseek-com": {
+        "baseUrl": "https://api.deepseek.com/v1",
+        "apiKey": "sk-93552b0660c14b56868208e43ef1739e",
+        "api": "openai-completions",
+        "models": [
+          {
+            "id": "deepseek-reasoner",
+            "name": "deepseek-reasoner (Custom Provider)",
+            "reasoning": false,
+            "input": [
+              "text"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 200000,
+            "maxTokens": 16000
+          }
+        ]
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "custom-api-deepseek-com/deepseek-reasoner"
+      },
+      "models": {
+        "custom-open-bigmodel-cn/glm-5": {
+          "alias": "glm5"
+        },
+        "custom-api-deepseek-com/deepseek-reasoner": {
+          "alias": "deepseek-r"
+        }
+      },
+      "workspace": "/home/liliucan/.openclaw/workspace"
+    }
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "channels": {
+    "feishu": {
+      "enabled": true,
+      "accounts": {
+        "main": {
+          "appId": "cli_a92b082fd3b89bb3",
+          "appSecret": "sKuJUbcKPakpExPKhLkhKeGKtaMrO2vx",
+          "botName": "我的AI助手"
+        },
+        "default": {
+          "dmPolicy": "pairing"
+        }
+      }
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "47fac28bf37806416752fe18dbbea337065dbaf94e310af3"
+    },
+    "remote": {
+      "token": "47fac28bf37806416752fe18dbbea337065dbaf94e310af3"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "nodes": {
+      "denyCommands": [
+        "camera.snap",
+        "camera.clip",
+        "screen.record",
+        "calendar.add",
+        "contacts.add",
+        "reminders.add"
+      ]
+    }
+  },
+  "plugins": {
+    "entries": {
+      "feishu": {
+        "enabled": true
+      }
+    }
+  }
+}

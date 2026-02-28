@@ -1,0 +1,224 @@
+TCGplayer 卡片信息汇总 (Puppeteer爬取)
+==================================================
+
+爬取时间: 2026/2/28 01:26:54
+总卡片数: 100
+
+1. Filters
+   价格: 127
+   链接: https://pages.tcgplayer.com/pokemon-day-2026
+
+2. Today only! Save big on select Pokémon products - Shop Now!
+   链接: https://pages.tcgplayer.com/pokemon-day-2026
+
+3. Shipping to
+   链接: https://www.tcgplayer.com/subscription
+
+4. Disney Lorcana
+
+5. Star Wars: Unlimited
+
+6. Flesh and Blood
+
+7. More Products
+
+8. Back to main
+
+9. Search: suggestions appear below
+
+10. Sign In  Don't have an account yet?  Make one here
+   链接: https://www.tcgplayer.com/login?returnUrl=https://www.tcgplayer.com/search/all/product?q=magic&view=grid
+
+11. Don't have an account yet?  Make one here
+   链接: https://www.tcgplayer.com/login/signup?returnUrl=https://www.tcgplayer.com/search/all/product?q=magic&view=grid
+
+12. Don't have an account yet?
+
+13. Magic
+
+14. Products
+
+15. All Filters
+
+16. Product Line
+
+17. Product Type
+
+18. 127,743 results for: “magic” in All Products
+   价格: 127
+
+19. Sort & View
+
+20. Sort by:
+
+21. Best Selling
+
+22. Price: High to Low
+
+23. Price: Low to High
+
+24. Shop Direct
+   价格: 112552
+   链接: https://store.tcgplayer.com/help/direct
+
+25. TCGplayer Direct
+
+26. SellersFind a Seller
+   链接: https://www.tcgplayer.com/sellers?returnUrl=www.tcgplayer.com/search/all/product?q=magic&view=grid
+
+27. Availability Hide Out of StockSellers With At Least…
+
+28. Availability
+
+29. Hide Out of StockSellers With At Least…
+
+30. Hide Out of Stock
+
+31. Sellers With At Least…
+
+32. Product LineProduct Line
+
+33. Magic: The Gathering
+
+34. Force of Will
+
+35. Weiss Schwarz
+
+36. Card Sleeves
+
+37. Sorcery: Contested Realm
+
+38. Battle Spirits Saga
+
+39. Life Counters
+
+40. The Caster Chronicles
+
+41. Storage Albums
+
+42. Cardfight Vanguard
+
+43. Pokemon Japan
+
+44. Collectible Storage
+
+45. Future Card BuddyFight
+
+46. Shadowverse: Evolve
+
+47. Kryptik TCG
+
+48. hololive OFFICIAL CARD GAME
+
+49. Bakugan TCG
+
+50. Dice Masters
+
+51. Argent Saga TCG
+
+52. Digimon Card Game
+
+53. Dragon Ball Super: Masters
+
+54. Grand Archive TCG
+
+55. Zombie World Order TCG
+
+56. My Little Pony CCG
+
+57. Union Arena
+
+58. Supply Bundles
+
+59. Star Wars: Destiny
+
+60. Warhammer Age of Sigmar Champions TCG
+
+61. Lightseekers TCG
+
+62. Final Fantasy TCG
+
+63. Riftbound: League of Legends Trading Card Game
+
+64. Gundam Card Game
+
+65. Munchkin CCG
+
+66. Flesh and Blood TCG
+
+67. The List Reprints
+
+68. Prerelease Cards
+
+69. Secret Lair Drop Series
+
+70. Magic Encyclopedia 2005 (Salvat/Hachette)
+   价格: 2005
+
+71. Ultra Pro Playmats
+
+72. Commander Masters
+
+73. World Championship Decks
+
+74. Universes Beyond: Doctor Who
+
+75. Universes Beyond: Fallout
+
+76. Commander Legends: Battle for Baldur's Gate
+
+77. Universes Beyond: The Lord of the Rings: Tales of Middle-earth
+
+78. Jumpstart 2022
+   价格: 2022
+
+79. Commander: FINAL FANTASY
+
+80. Foundations Jumpstart
+
+81. Commander Legends
+
+82. Foundations
+
+83. Commander: Modern Horizons 3
+   价格: 3
+
+84. Modern Horizons 2
+   价格: 2
+
+85. Ultra Pro Deck Boxes
+
+86. Modern Horizons 3
+   价格: 3
+
+87. FINAL FANTASY
+
+88. Double Masters 2022
+   价格: 2022
+
+89. Universes Beyond: Warhammer 40,000
+   价格: 40
+
+90. Ravnica Remastered
+
+91. Commander: The Lord of the Rings: Tales of Middle-earth
+
+92. 30th Anniversary Edition
+   价格: 30
+
+93. Kamigawa: Neon Dynasty
+
+94. Aetherdrift
+
+95. Streets of New Capenna
+
+96. Phyrexia: All Will Be One
+
+97. Ultra Pro Card Sleeves
+
+98. Innistrad: Double Feature
+
+99. Dominaria United
+
+100. March of the Machine
+
